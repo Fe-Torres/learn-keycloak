@@ -1,4 +1,4 @@
-# Aprendendo Keycloak
+# Aprendendo Keycloak ⏲️
 
 ### Repositório criado para compartilhar as informações adquiridas estudando keycloak! 
 
