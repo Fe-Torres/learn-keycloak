@@ -1,4 +1,4 @@
-# Aprendendo Keycloak
+# Aprendendo Keycloak ⏲️
 
 ### Repositório criado para compartilhar as informações adquiridas estudando keycloak! 
 
@@ -7,5 +7,5 @@
 
 ---
 
-** Rodando a aplicação **
+**Rodando a aplicação**
 > $ go run main.go
