@@ -7,5 +7,5 @@
 
 ---
 
-** Rodando a aplicação **
+**Rodando a aplicação**
 > $ go run main.go
