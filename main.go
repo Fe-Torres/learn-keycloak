@@ -51,7 +51,7 @@ func main() {
 			return
 		}
 
-		//Trocando o code da url por um token
+		//Trocando o code da url para um token
 		token, err := config.Exchange(ctx, request.URL.Query().Get("code"))
 		if err != nil {
 			http.Error(writer, "Falha ao trocar o token", http.StatusInternalServerError)
